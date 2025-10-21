@@ -8,7 +8,6 @@ let _config = {
     openAI_api: "https://api.openai.com/v1/responses",
     openAI_model: "gpt-4o-mini",
 
-    
     ai_instruction: `You are a bot that provides cooking recipe.
     if user ask an unrelated stuff then dont response.
     output should be in html format,
